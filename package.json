@@ -1,0 +1,16 @@
+{
+  "name": "leccion-2",
+  "version": "2.0.0",
+  "description": "Esta es una aplicacion de linea de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Ramirez",
+  "license": "ISC",
+  "dependencies": {
+    "colores": "^1.0.1",
+    "colors": "^1.4.0",
+    "yargs": "^17.7.0"
+  }
+}
